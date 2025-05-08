@@ -62,7 +62,7 @@ build/
 /frontend/yarn-error.log*
 
 # IntelliJ
-/backend/buzz/.idea/
-/backend/buzz/.gitignore
-backend/buzz/src/main/resources/application.properties
+/backend/sthlm-exit/.idea/
+/backend/sthlm-exit/.gitignore
+backend/sthlm-exit/src/main/resources/application.properties
 /*.iml
